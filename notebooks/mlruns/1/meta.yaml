@@ -1,0 +1,4 @@
+artifact_location: file:///C:/Users/Access/ITI/data_science_skills/notebooks/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: live_illustration
